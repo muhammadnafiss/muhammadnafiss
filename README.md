@@ -63,11 +63,11 @@ A React-based note-taking application built as part of my learning journey with 
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=muhammadnafis23&show_icons=true&theme=transparent&card_width=450"
+    src="https://github-stats-extended.vercel.app/api?username=muhammadnafiss&show_icons=true&theme=transparent&card_width=450"
     height="180"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadnafis23&layout=compact&theme=transparent&card_width=450"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadnafiss&layout=compact&theme=transparent&card_width=450"
     height="180"
   />
 </p>
